@@ -1,3 +1,19 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://chenge125.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My Homepage & Blog'
+theme = "paper"
+
+[params]
+  # color style
+  color = 'linen'                 # linen, wheat, gray, light
+
+  github = 'ChenGe125'
+  rss = true
+
+  avatar = 'https://i2.hdslb.com/bfs/face/8a06cbb0a08fbf0effaea0dffc974a4690c97e7c.jpg'
+  name = 'Ge Chen'
+  bio = 'YOUR_BIO'
+
+  # misc
+  disableHLJS = true              # disable requesting highlight.js
+  monoDarkIcon = true             # show monochrome dark mode icon
