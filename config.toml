@@ -11,7 +11,7 @@ theme = "paper"
   rss = true
 
   name = 'Ge Chen'
-  bio = 'YOUR_BIO'
+  bio = 'ただ普通の高校生の一人です。'
 
   # misc
   disableHLJS = true              # disable requesting highlight.js
