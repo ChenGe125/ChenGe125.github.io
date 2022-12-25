@@ -1,6 +1,6 @@
 baseURL = 'https://chenge125.github.io/'
 languageCode = 'en-us'
-title = 'My Homepage & Blog'
+title = "Ge's Homepage & Blog"
 theme = "paper"
 
 [params]
